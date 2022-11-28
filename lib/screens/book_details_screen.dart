@@ -2,6 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:library_app/model/book.dart';
 
 class BookDetailsScreen extends StatelessWidget {
+
+
+
   final Book book;
 
   BookDetailsScreen(this.book);

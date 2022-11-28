@@ -29,7 +29,7 @@ class BookListScreen extends StatelessWidget {
                     showModalBottomSheet(
                         barrierColor: Theme.of(context)
                             .primaryColorLight
-                            .withOpacity(0.3),
+                            .withOpacity(0.2),
                         shape: RoundedRectangleBorder(
                           borderRadius: BorderRadius.circular(10.0),
                         ),
